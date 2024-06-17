@@ -23,4 +23,4 @@ HTML: For the structure and content of the web pages.
 CSS: For styling the application, including layout, colors, and fonts.
 JavaScript: For dynamic functionality such as adding items to the cart, updating the total cost, and removing items from the cart.
 
-https://andrejilic05.github.io/Vege-Shop/
+[Try the Vege Shop application here!](https://andrejilic05.github.io/Vege-Shop/)
