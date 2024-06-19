@@ -21,3 +21,9 @@ Try the [Vege Shop](https://your-username.github.io/vege-shop/) now!
 - **HTML**: For the structure and content of the web pages.
 - **CSS**: For styling the application, including layout, colors, and fonts.
 - **JavaScript**: For dynamic functionality such as adding items to the cart, updating the total cost, and removing items from the cart.
+
+## 📧 Contact
+For any questions or feedback, feel free to reach out:
+
+Email: ilicandrej2005@gmail.com
+GitHub: AndrejIlic05
