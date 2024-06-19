@@ -18,9 +18,9 @@ Try the [Vege Shop](https://your-username.github.io/vege-shop/) now!
 
 ## 🛠️ Technologies Used
 
-**HTML**: For the structure and content of the web pages.
-**CSS**: For styling the application, including layout, colors, and fonts.
-**JavaScript**: For dynamic functionality such as adding items to the cart, updating the total cost, and removing items from the cart.
+ - **HTML**: For the structure and content of the web pages.
+ - **CSS**: For styling the application, including layout, colors, and fonts.
+ - **JavaScript**: For dynamic functionality such as adding items to the cart, updating the total cost, and removing items from the cart.
 
 ## 📧 Contact
 For any questions or feedback, feel free to reach out:
