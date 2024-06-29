@@ -6,7 +6,7 @@ Welcome to the **Vege Shop** repository! This project is a simple and user-frien
 
 ## 🔗 Live Demo
 
-Try the [Vege Shop](https://your-username.github.io/vege-shop/) now!
+Try the [Vege Shop](https://andrejilic05.github.io/Vege-Shop/) now!
 
 ## 🚀 Features
 
