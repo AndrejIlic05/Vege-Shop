@@ -25,5 +25,5 @@ Try the [Vege Shop](https://andrejilic05.github.io/Vege-Shop/) now!
 ## 📧 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: ilicandrej2005@gmail.com
-GitHub: AndrejIlic05
+- Email: ilicandrej2005@gmail.com
+-GitHub: AndrejIlic05
